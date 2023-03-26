@@ -1,0 +1,4 @@
+find s ..  enjoysport
+decision ...iris
+EM......labelled..unlabelled,,semisupervisseed
+special clus.......cc general
